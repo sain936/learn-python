@@ -1,0 +1,1157 @@
+START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*
+########,########,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain
+########,########,Business,Fort Pierce,Fort Pierce,5,
+########,########,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies
+########,########,Business,Fort Pierce,Fort Pierce,4.7,Meeting
+########,########,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit
+########,########,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain
+########,########,Business,West Palm Beach,Palm Beach,7.1,Meeting
+########,########,Business,Cary,Cary,0.8,Meeting
+########,########,Business,Cary,Morrisville,8.3,Meeting
+########,########,Business,Jamaica,New York,16.5,Customer Visit
+########,########,Business,New York,Queens,10.8,Meeting
+########,########,Business,Elmhurst,New York,7.5,Meeting
+########,########,Business,Midtown,East Harlem,6.2,Meeting
+########,########,Business,East Harlem,NoMad,6.4,Temporary Site
+########,########,Business,Flatiron District,Midtown,1.6,Errand/Supplies
+########,########,Business,Midtown,Midtown East,1.7,Meal/Entertain
+########,########,Business,Midtown East,Midtown,1.9,Meal/Entertain
+########,########,Business,Midtown,Hudson Square,1.9,Meal/Entertain
+########,########,Business,Hudson Square,Lower Manhattan,4,Meal/Entertain
+########,########,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies
+########,########,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit
+########,########,Business,Hell's Kitchen,Midtown,2,Errand/Supplies
+########,########,Business,New York,Queens County,15.1,Meeting
+########,########,Business,Downtown,Gulfton,11.2,Meeting
+########,########,Business,Gulfton,Downtown,11.8,Meeting
+########,########,Business,Houston,Houston,21.9,Customer Visit
+########,########,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies
+########,########,Business,Morrisville,Cary,8,Errand/Supplies
+########,########,Business,Cary,Durham,10.4,Meal/Entertain
+########,########,Business,Durham,Cary,10.4,Meal/Entertain
+########,########,Business,Cary,Cary,4.8,Meal/Entertain
+########,########,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain
+########,########,Business,Whitebridge,Lake Wellingborough,7.2,
+########,########,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site
+########,########,Business,Cary,Raleigh,17.1,Meeting
+########,########,Business,Fayetteville Street,Umstead,15.1,Meeting
+########,########,Business,Raleigh,Cary,40.2,Customer Visit
+########,########,Business,Cary,Cary,1.6,Errand/Supplies
+########,########,Business,Cary,Cary,2.4,Meal/Entertain
+########,########,Business,Cary,Cary,1,Meal/Entertain
+########,########,Business,Whitebridge,Hazelwood,2,Meal/Entertain
+########,########,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies
+########,########,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies
+########,########,Business,Cary,Cary,1.4,Errand/Supplies
+########,########,Business,Cary,Cary,0.5,Errand/Supplies
+########,########,Business,Cary,Cary,1.8,Meeting
+########,########,Business,Cary,Raleigh,18.7,Customer Visit
+########,########,Business,Fairmont,Meredith Townes,3.4,Customer Visit
+########,########,Business,Raleigh,Raleigh,2.7,Customer Visit
+########,########,Business,Raleigh,Cary,12.9,Customer Visit
+########,########,Business,Cary,Raleigh,19,Temporary Site
+########,########,Business,Meredith Townes,Leesville Hollow,14.7,Meeting
+########,########,Business,Raleigh,Cary,15.7,Meeting
+########,########,Business,Cary,Cary,4.6,Customer Visit
+########,########,Business,Cary,Cary,5.2,Meeting
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,10.1,Meeting
+########,########,Business,Cary,Apex,5.8,Errand/Supplies
+########,########,Business,Apex,Cary,5.5,Meal/Entertain
+########,########,Business,Cary,Apex,5.7,Errand/Supplies
+########,########,Business,Apex,Cary,5.7,Customer Visit
+########,########,Business,Cary,Chapel Hill,19.4,Customer Visit
+########,########,Business,Chapel Hill,Cary,23.3,Customer Visit
+########,########,Business,Northwoods,Whitebridge,3.9,Meal/Entertain
+########,########,Business,Whitebridge,Williamsburg Manor,8.3,Meeting
+########,########,Business,Cary,Cary,6,Errand/Supplies
+########,########,Business,Cary,Cary,1.6,Errand/Supplies
+########,########,Business,Cary,Morrisville,5.2,Errand/Supplies
+########,########,Business,Morrisville,Cary,9.7,Meal/Entertain
+########,########,Business,Cary,Cary,1.6,Meal/Entertain
+########,########,Business,Cary,Cary,1.1,Meal/Entertain
+########,########,Business,Cary,Cary,1.6,Meal/Entertain
+########,########,Business,Whitebridge,Macgregor Downs,9,Meeting
+########,########,Business,Cary,Cary,7.7,Meeting
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,10.4,Meeting
+########,########,Business,Cary,Raleigh,11.4,Between Offices
+########,########,Business,Raleigh,Cary,9,Errand/Supplies
+########,########,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain
+########,########,Business,Cary,Apex,5.6,Errand/Supplies
+########,########,Business,Apex,Cary,5.7,Customer Visit
+########,########,Business,Cary,Morrisville,6.1,Temporary Site
+########,########,Business,Morrisville,Cary,6.1,Meeting
+########,########,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain
+########,########,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain
+########,########,Personal,Whitebridge,Northwoods,5.3,
+########,########,Personal,Northwoods,Tanglewood,3,
+########,########,Personal,Tanglewood,Preston,5.1,
+########,########,Personal,Preston,Whitebridge,1.5,
+########,########,Business,Cary,Morrisville,6.1,
+########,########,Business,Morrisville,Cary,6.1,Meal/Entertain
+########,########,Business,Cary,Raleigh,17.3,Meal/Entertain
+########,########,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain
+########,########,Business,Raleigh,Morrisville,13.5,Temporary Site
+########,########,Business,Morrisville,Cary,6.1,Temporary Site
+########,########,Business,Cary,Durham,8.5,Temporary Site
+########,########,Business,Durham,Morrisville,2.6,Temporary Site
+########,########,Business,Morrisville,Raleigh,17,Customer Visit
+########,########,Business,Raleigh,Cary,18,Meeting
+########,########,Business,Cary,Morrisville,8.4,Meeting
+########,########,Business,Morrisville,Cary,11.5,Customer Visit
+########,########,Business,Cary,Morrisville,8.9,Meeting
+########,########,Personal,East Elmhurst,Jackson Heights,2.7,
+########,########,Personal,Jackson Heights,East Elmhurst,1.8,
+########,########,Business,East Elmhurst,New York,8.1,Meeting
+########,########,Business,Midtown,Midtown West,2,Meeting
+########,########,Business,New York,Long Island City,13,Meeting
+########,########,Business,Long Island City,Jamaica,13.9,Meeting
+########,########,Business,Katunayaka,Unknown Location,43.7,Customer Visit
+########,########,Business,Unknown Location,Colombo,14.1,
+########,########,Business,Colombo,Colombo,2.6,
+########,########,Business,Colombo,Colombo,4.5,
+########,########,Business,Colombo,Colombo,1.7,
+########,########,Business,Colombo,Colombo,1.8,Temporary Site
+########,########,Business,Colombo,Colombo,6,
+########,########,Business,Colombo,Nugegoda,1.1,Meal/Entertain
+########,########,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies
+########,########,Business,Unknown Location,Colombo,14.7,Temporary Site
+########,########,Business,Colombo,Colombo,1.7,Meal/Entertain
+########,########,Business,Colombo,Katunayaka,21.4,Temporary Site
+########,########,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies
+########,########,Business,Unknown Location,Unknown Location,23.5,Temporary Site
+########,########,Business,Unknown Location,Islamabad,12.7,Temporary Site
+########,########,Business,Islamabad,Unknown Location,6,Temporary Site
+########,########,Business,Unknown Location,Islamabad,5.2,Customer Visit
+########,########,Business,Islamabad,Unknown Location,10,Meeting
+########,########,Business,Unknown Location,Unknown Location,18.3,Meeting
+########,########,Business,Unknown Location,Unknown Location,11.2,Meeting
+########,########,Business,Unknown Location,Islamabad,7.6,Meeting
+########,########,Personal,Islamabad,Islamabad,1.5,
+########,########,Personal,Islamabad,Islamabad,1,
+########,########,Business,Islamabad,Unknown Location,7.3,Temporary Site
+########,########,Business,Unknown Location,Islamabad,3.5,
+########,########,Business,Islamabad,Islamabad,4.2,
+########,########,Personal,Islamabad,Unknown Location,13.6,
+########,########,Personal,Unknown Location,Unknown Location,2.5,
+########,########,Personal,Unknown Location,Islamabad,14.4,
+########,########,Personal,Islamabad,Islamabad,3,
+########,########,Personal,Islamabad,Islamabad,1.5,
+########,########,Business,Islamabad,R?walpindi,18.4,
+########,########,Business,R?walpindi,R?walpindi,23.1,Meeting
+########,########,Personal,R?walpindi,Unknown Location,16.5,
+########,########,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies
+########,########,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies
+########,########,Business,Unknown Location,Islamabad,14.5,
+########,########,Business,Unknown Location,Islamabad,2.4,Errand/Supplies
+########,########,Business,Islamabad,Islamabad,4.6,Errand/Supplies
+########,########,Business,Islamabad,Unknown Location,8.8,Meal/Entertain
+########,########,Business,Unknown Location,Unknown Location,8.3,Temporary Site
+########,########,Business,Unknown Location,Unknown Location,22.7,Temporary Site
+########,########,Business,Unknown Location,Islamabad,13,Temporary Site
+########,########,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site
+########,########,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain
+########,########,Business,Unknown Location,Unknown Location,9.7,
+########,########,Business,Unknown Location,R?walpindi,20,Meeting
+########,########,Business,Morrisville,Cary,8.1,Customer Visit
+########,########,Business,Whitebridge,Preston,1.5,
+########,########,Business,Preston,Whitebridge,1.7,Errand/Supplies
+########,########,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies
+########,########,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies
+########,########,Business,Whitebridge,Tanglewood,6,Meal/Entertain
+########,########,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain
+########,########,Business,Whitebridge,Westpark Place,6.3,
+########,########,Personal,Westpark Place,Whitebridge,1.7,
+########,########,Business,Cary,Durham,10.6,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Personal,Whitebridge,Westpark Place,1.9,
+########,########,Personal,Westpark Place,Hazelwood,4.2,
+########,########,Personal,Hazelwood,Whitebridge,2,
+########,########,Business,Whitebridge,Waverly Place,7.7,Meeting
+########,########,Business,Waverly Place,Whitebridge,6.8,Meeting
+########,########,Personal,Whitebridge,Westpark Place,2.1,
+########,########,Business,Cary,Apex,3.8,Meeting
+########,########,Business,Apex,Cary,5.6,Meeting
+########,########,Business,Whitebridge,Hazelwood,2.6,
+########,########,Business,Hazelwood,Whitebridge,6.6,Customer Visit
+########,########,Business,Whitebridge,Wayne Ridge,8,Meal/Entertain
+########,########,Business,Wayne Ridge,Whitebridge,8,Meeting
+########,########,Personal,Whitebridge,Westpark Place,2.2,
+########,########,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies
+########,########,Business,Whitebridge,Northwoods,5.2,Meal/Entertain
+########,########,Business,Cary,Raleigh,7.6,Customer Visit
+########,########,Business,Raleigh,Cary,17.3,Meeting
+########,########,Business,Cary,Durham,9.9,Meeting
+########,########,Business,Durham,Cary,9.9,Customer Visit
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,10.9,Meeting
+########,########,Business,Cary,Raleigh,15.7,Customer Visit
+########,########,Business,Raleigh,Raleigh,4.9,Meal/Entertain
+########,########,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies
+########,########,Business,Raleigh,Cary,13.5,Meeting
+########,########,Business,Cary,Morrisville,1.9,Temporary Site
+########,########,Business,Morrisville,Cary,2,Meal/Entertain
+########,########,Business,Cary,Morrisville,6.5,Meal/Entertain
+########,########,Personal,Weston,Weston,4.2,
+########,########,Personal,Morrisville,Cary,3.5,
+########,########,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain
+########,########,Business,Cary,Morrisville,7.8,Meal/Entertain
+########,########,Business,Morrisville,Cary,3.9,Meal/Entertain
+########,########,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies
+########,########,Business,Cary,Raleigh,12.4,Customer Visit
+########,########,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit
+########,########,Business,Meredith Townes,Leesville Hollow,9.4,Meeting
+########,########,Business,Raleigh,Cary,11.9,Between Offices
+########,########,Business,Whitebridge,Waverly Place,7.2,Between Offices
+########,########,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain
+########,########,Personal,Whitebridge,Whitebridge,1.6,
+########,########,Business,Cary,Morrisville,8.4,Meeting
+########,########,Business,East Austin,West University,12.8,Meeting
+########,########,Business,West University,South Congress,2.3,
+########,########,Business,South Congress,Arts District,1.6,
+########,########,Business,The Drag,Congress Ave District,2,Meal/Entertain
+########,########,Business,Congress Ave District,Downtown,0.8,
+########,########,Business,Downtown,Red River District,1.2,
+########,########,Business,Red River District,Downtown,1,
+########,########,Business,South Congress,The Drag,2.1,
+########,########,Business,The Drag,South Congress,2.2,
+########,########,Personal,South Congress,The Drag,1.9,
+########,########,Business,The Drag,Convention Center District,5.7,Meal/Entertain
+########,########,Business,South Congress,North Austin,8.4,Meal/Entertain
+########,########,Business,Georgian Acres,The Drag,6.2,Meal/Entertain
+########,########,Business,The Drag,North Austin,10.5,Meal/Entertain
+########,########,Business,North Austin,Coxville,7.2,Meal/Entertain
+########,########,Business,Coxville,The Drag,12.5,
+########,########,Business,The Drag,South Congress,2,Errand/Supplies
+########,########,Business,South Congress,The Drag,2.7,
+########,########,Business,The Drag,Convention Center District,2,Meal/Entertain
+########,########,Business,Downtown,The Drag,2.8,Meal/Entertain
+########,########,Business,The Drag,Congress Ave District,1.7,Meal/Entertain
+########,########,Business,Convention Center District,West University,2,
+########,########,Business,West University,Congress Ave District,2.1,Meal/Entertain
+########,########,Personal,Downtown,The Drag,1.7,
+########,########,Business,Austin,Katy,136,Customer Visit
+########,########,Business,Katy,Houston,30.2,Meeting
+########,########,Business,Midtown,Alief,15.5,Meal/Entertain
+########,########,Personal,Houston,Houston,4.9,
+########,########,Personal,Houston,Houston,12.6,
+########,########,Personal,Sharpstown,Midtown,10.4,
+########,########,Business,Midtown,Midtown,1.1,Meal/Entertain
+########,########,Business,Midtown,Midtown,1.1,Meal/Entertain
+########,########,Business,Midtown,Sharpstown,13.2,Meeting
+########,########,Business,Sharpstown,Sharpstown,1,Errand/Supplies
+########,########,Business,Sharpstown,Midtown,9.2,Customer Visit
+########,########,Business,Midtown,Sharpstown,9.4,Meal/Entertain
+########,########,Business,Houston,Sugar Land,12,Customer Visit
+########,########,Business,Sugar Land,Houston,35.1,Customer Visit
+########,########,Business,Houston,Galveston,36.5,Meal/Entertain
+########,########,Business,Galveston,Port Bolivar,3.1,Meal/Entertain
+########,########,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies
+########,########,Business,Port Bolivar,Port Bolivar,1.2,
+########,########,Business,Port Bolivar,Galveston,7.5,Meeting
+########,########,Business,Galveston,Houston,57,Customer Visit
+########,########,Business,Midtown,Washington Avenue,5.9,Meeting
+########,########,Business,Washington Avenue,Midtown,6.2,Meeting
+########,########,Business,Midtown,Sharpstown,10.4,
+########,########,Personal,Sharpstown,Briar Meadow,1.2,
+########,########,Business,Briar Meadow,Midtown,9.6,Customer Visit
+########,########,Personal,Midtown,Downtown,1,
+########,########,Business,Downtown,Midtown,0.9,Meal/Entertain
+########,########,Business,Midtown,Sharpstown,8.8,
+########,########,Business,Sharpstown,Midtown,25.6,Meal/Entertain
+########,########,Business,Midtown,Greater Greenspoint,23,Meal/Entertain
+########,########,Personal,Morrisville,Cary,8.1,
+########,########,Personal,Whitebridge,Whitebridge,1.4,
+########,########,Personal,Whitebridge,Preston,1.7,
+########,########,Personal,Preston,Whitebridge,1.6,
+########,########,Personal,Whitebridge,Westpark Place,2,
+########,########,Business,Westpark Place,Whitebridge,2.2,
+########,########,Business,Cary,Latta,144,Customer Visit
+########,########,Business,Latta,Jacksonville,310.3,Customer Visit
+########,########,Business,Jacksonville,Kissimmee,201,Meeting
+########,########,Personal,Couples Glen,Isles of Buena Vista,6.7,
+########,########,Personal,Kissimmee,Orlando,8.8,
+########,########,Personal,Lake Reams,Lake Reams,1.2,
+########,########,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies
+########,########,Business,Orlando,Kissimmee,6.6,Meal/Entertain
+########,########,Business,Kissimmee,Orlando,6.1,Customer Visit
+########,########,Personal,Orlando,Orlando,6.9,
+########,########,Personal,Orlando,Kissimmee,7.3,
+########,########,Personal,Kissimmee,Orlando,3.6,
+########,########,Personal,Couples Glen,Vista East,27.2,
+########,########,Personal,Orlando,Kissimmee,25.7,
+########,########,Personal,Kissimmee,Orlando,13.6,
+########,########,Personal,Sand Lake Commons,Sky Lake,6.2,
+########,########,Personal,Sky Lake,Sand Lake Commons,6,
+########,########,Personal,Orlando,Kissimmee,13.8,
+########,########,Business,Orlando,Kissimmee,28.8,Meal/Entertain
+########,########,Business,Kissimmee,Orlando,16.1,Temporary Site
+########,########,Business,Orlando,Kissimmee,16.4,Meal/Entertain
+########,########,Business,Kissimmee,Kissimmee,11,Meeting
+########,########,Business,Kissimmee,Orlando,15.5,Customer Visit
+########,########,Business,Orlando,Kissimmee,20.3,Meeting
+########,########,Personal,Kissimmee,Kissimmee,0.7,
+########,########,Personal,Kissimmee,Kissimmee,5.5,
+########,########,Personal,Kissimmee,Kissimmee,5.1,
+########,########,Business,Kissimmee,Daytona Beach,77.3,Customer Visit
+########,########,Business,Daytona Beach,Jacksonville,80.5,Customer Visit
+########,########,Business,Jacksonville,Ridgeland,174.2,Customer Visit
+########,########,Business,Ridgeland,Florence,144,Meeting
+########,########,Business,Florence,Cary,159.3,Meeting
+########,########,Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain
+########,########,Business,Wayne Ridge,Whitebridge,8,Meal/Entertain
+########,########,Business,Cary,Morrisville,6.1,Meal/Entertain
+########,########,Business,Morrisville,Cary,6.1,Errand/Supplies
+########,########,Business,Cary,Durham,10.5,Meeting
+########,########,Business,Durham,Cary,8.7,Meal/Entertain
+########,########,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies
+########,########,Business,Cary,Raleigh,19.1,Meeting
+########,########,Business,Raleigh,Cary,18.6,Meeting
+########,########,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies
+########,########,Business,Cary,Raleigh,8.9,Meeting
+########,########,Business,Meredith,Cedar Hill,7.5,Customer Visit
+########,########,Business,Raleigh,Morrisville,15.9,Meeting
+########,########,Business,Morrisville,Cary,6.5,Meal/Entertain
+########,########,Business,Cary,Holly Springs,15.3,Temporary Site
+########,########,Business,Holly Springs,Cary,13.7,Temporary Site
+########,########,Business,Cary,Raleigh,11.9,Temporary Site
+########,########,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies
+########,########,Business,Raleigh,Cary,15.2,Meeting
+########,########,Business,Cary,Morrisville,6,Errand/Supplies
+########,########,Business,Morrisville,Cary,6.1,Meal/Entertain
+########,########,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain
+########,########,Business,Wayne Ridge,Whitebridge,8,Meal/Entertain
+########,########,Business,Cary,Raleigh,13.6,Meeting
+########,########,Business,Raleigh,Cary,22.5,Meeting
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,10,Meeting
+########,########,Business,Whitebridge,Tanglewood,6,Meal/Entertain
+########,########,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain
+########,########,Business,Cary,Morrisville,3.1,Errand/Supplies
+########,########,Business,Chessington,Chessington,1.9,Errand/Supplies
+########,########,Business,Morrisville,Cary,4.2,Between Offices
+########,########,Business,Whitebridge,Burtrose,4.9,Between Offices
+########,########,Business,Burtrose,Whitebridge,4.8,Between Offices
+########,########,Business,Cary,Raleigh,12.4,Customer Visit
+########,########,Business,Raleigh,Cary,32.8,Customer Visit
+########,########,Business,Morrisville,Cary,5.5,Customer Visit
+########,########,Business,Cary,Durham,9.9,Meeting
+########,########,Business,Durham,Cary,10,Meeting
+########,########,Business,Cary,Durham,14.2,Customer Visit
+########,########,Business,Durham,Cary,18.2,Meeting
+########,########,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain
+########,########,Business,Waverly Place,Whitebridge,6.8,
+########,########,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain
+########,########,Business,Westpark Place,Whitebridge,2.3,
+########,########,Business,Whitebridge,Tanglewood,6.2,Between Offices
+########,########,Business,Tanglewood,Parkway,7.5,Meeting
+########,########,Business,Parkway,Whitebridge,3.1,Errand/Supplies
+########,########,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies
+########,########,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain
+########,########,Business,Morrisville,Cary,2.5,Meal/Entertain
+########,########,Business,Cary,Morrisville,8.7,Meal/Entertain
+########,########,Business,Mcvan,Capitol One,14.5,Errand/Supplies
+########,########,Business,Capitol One,University District,4.5,Meal/Entertain
+########,########,Business,University District,Capitol One,5,Meal/Entertain
+########,########,Business,Seattle,Redmond,14.2,Meal/Entertain
+########,########,Business,Redmond,Bellevue,2.9,Errand/Supplies
+########,########,Business,Bellevue,Seattle,12.9,Meeting
+########,########,Business,Capitol One,Mcvan,14.4,Meeting
+########,########,Business,Chapel Hill,Morrisville,17,Meeting
+########,########,Business,Morrisville,Cary,7.9,Customer Visit
+########,########,Business,Cary,Morrisville,8.4,Customer Visit
+########,########,Business,San Francisco,Palo Alto,20.5,Between Offices
+########,########,Business,Palo Alto,Sunnyvale,9.8,Customer Visit
+########,########,Business,Sunnyvale,Newark,17.6,Customer Visit
+########,########,Business,Newark,Menlo Park,9.3,Customer Visit
+########,########,Business,Menlo Park,Newark,7.9,Customer Visit
+########,########,Business,Newark,San Francisco,25.6,Meeting
+########,########,Business,Morrisville,Cary,8.1,Meeting
+########,########,Business,Cary,Morrisville,3.1,Meal/Entertain
+########,########,Business,Morrisville,Cary,3.1,Meal/Entertain
+########,########,Business,Whitebridge,Preston,2.8,Errand/Supplies
+########,########,Business,Preston,Westpark Place,2.7,Errand/Supplies
+########,########,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies
+########,########,Business,Cary,Morrisville,8.4,Customer Visit
+########,########,Business,Morrisville,Raleigh,7.6,Customer Visit
+########,########,Business,Old City,Parkway Museums,2.9,Meal/Entertain
+########,########,Business,Old City,Hog Island,11.2,Meeting
+########,########,Business,Morrisville,Cary,8.2,Meal/Entertain
+########,########,Business,Cary,Morrisville,3,Meal/Entertain
+########,########,Business,Morrisville,Cary,2.5,Meal/Entertain
+########,########,Business,Whitebridge,Savon Height,3.6,Meal/Entertain
+########,########,Business,Savon Height,Whitebridge,3.6,Errand/Supplies
+########,########,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies
+########,########,Business,Savon Height,Kilarney Woods,1.2,
+########,########,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies
+########,########,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies
+########,########,Business,Cary,Morrisville,6.1,Meal/Entertain
+########,########,Business,Morrisville,Cary,11.3,Customer Visit
+########,########,Business,Cary,Raleigh,14.9,Meeting
+########,########,Business,Raleigh,Cary,14,Meeting
+########,########,Business,Westpark Place,Whitebridge,1.8,
+########,########,Business,Cary,Morrisville,6.7,Customer Visit
+########,########,Business,Morrisville,Cary,9.6,Meeting
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Morrisville,6,Meal/Entertain
+########,########,Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies
+########,########,Business,Morrisville,Cary,3.1,Errand/Supplies
+########,########,Business,Huntington Woods,Weston,1.7,Errand/Supplies
+########,########,Business,Morrisville,Cary,4,Between Offices
+########,########,Business,Whitebridge,Savon Height,7.8,Customer Visit
+########,########,Business,Cary,Morrisville,7.8,Customer Visit
+########,########,Business,Weston,Weston,3.8,Meal/Entertain
+########,########,Business,Morrisville,Cary,2.5,Meal/Entertain
+########,########,Business,Cary,Durham,9.9,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Whitebridge,Hazelwood,3,Errand/Supplies
+########,########,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies
+########,########,Business,Cary,Apex,5.7,Meal/Entertain
+########,########,Business,Apex,Cary,7.2,Meal/Entertain
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Morrisville,8.7,Meal/Entertain
+########,########,Business,Jamaica,New York,22.3,Errand/Supplies
+########,########,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain
+########,########,Business,Medical Centre,Tudor City,0.7,Errand/Supplies
+########,########,Business,Rose Hill,Soho,2.5,Meal/Entertain
+########,########,Business,Soho,Tribeca,0.5,Errand/Supplies
+########,########,Business,Tribeca,Financial District,0.9,Errand/Supplies
+########,########,Business,Financial District,Kips Bay,4.8,Errand/Supplies
+########,########,Business,New York,Jamaica,16.3,Meeting
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Morrisville,3.7,Errand/Supplies
+########,########,Business,Morrisville,Cary,4.6,Meal/Entertain
+########,########,Business,Westpark Place,Whitebridge,1.7,
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Morrisville,2.5,Meal/Entertain
+########,########,Business,Morrisville,Cary,4.3,Errand/Supplies
+########,########,Business,Parkway,Whitebridge,2.8,Errand/Supplies
+########,########,Business,Cary,Morrisville,8.4,Meal/Entertain
+########,########,Business,Oakland,Emeryville,13.2,Meeting
+########,########,Business,Emeryville,Berkeley,3.9,Meal/Entertain
+########,########,Business,Berkeley,Oakland,5.1,Meal/Entertain
+########,########,Business,Oakland,Unknown Location,5.2,Customer Visit
+########,########,Business,Emeryville,San Francisco,9.8,
+########,########,Business,San Francisco,Emeryville,11.6,Meeting
+########,########,Business,Emeryville,Oakland,5.1,Meeting
+########,########,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies
+########,########,Business,Kenner,New Orleans,12.4,Between Offices
+########,########,Business,CBD,Lower Garden District,1.9,Between Offices
+########,########,Business,Lower Garden District,Lakeview,6.4,Customer Visit
+########,########,Personal,Lakeview,Storyville,5.5,
+########,########,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain
+########,########,Business,New Orleans,Metairie,14.5,
+########,########,Business,Metairie,Kenner,2.7,
+########,########,Business,Kenner,New Orleans,15,
+########,########,Business,New Orleans,Kenner,12.9,
+########,########,Business,Kenner,New Orleans,13.6,
+########,########,Business,New Orleans,Kenner,12.2,
+########,########,Business,Morrisville,Cary,8.7,
+########,########,Business,Cary,Raleigh,6,
+########,########,Business,Raleigh,Cary,5.9,
+########,########,Business,Cary,Raleigh,19.3,
+########,########,Business,Raleigh,Cary,16.6,Meal/Entertain
+########,########,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain
+########,########,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain
+########,########,Business,Cary,Raleigh,8.6,Errand/Supplies
+########,########,Business,Raleigh,Morrisville,9,Errand/Supplies
+########,########,Business,Morrisville,Cary,3.1,Errand/Supplies
+########,########,Business,Cary,Morrisville,8.4,Temporary Site
+########,########,Business,Kenner,New Orleans,12.8,
+########,########,Business,CBD,Bywater,4.5,
+########,########,Business,New Orleans,Chalmette,11.8,Between Offices
+########,########,Business,Chalmette,Arabi,1.1,Errand/Supplies
+########,########,Business,Arabi,Metairie,17,Meal/Entertain
+########,########,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting
+########,########,Business,Metairie,New Orleans,15.5,Meeting
+########,########,Business,Storyville,Marigny,1.6,
+########,########,Business,Marigny,Storyville,1.5,
+########,########,Business,New Orleans,Kenner,12.6,Meeting
+########,########,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,
+########,########,Business,Kenner,Kenner,2.2,
+########,########,Business,Kenner,New Orleans,13,
+########,########,Business,New Orleans,Covington,46.9,
+########,########,Business,Covington,Covington,2.5,
+########,########,Business,Covington,Covington,8.6,
+########,########,Business,Covington,Covington,5.2,
+########,########,Business,Covington,Covington,7.6,
+########,########,Business,Covington,Covington,1.8,
+########,########,Business,Covington,Mandeville,4.7,
+########,########,Business,Mandeville,Mandeville,2.8,
+########,########,Business,Mandeville,Metairie,30,
+########,########,Business,Metairie,Kenner,4.4,
+########,########,Business,Jamestown Court,Jamestown Court,1,
+########,########,Business,Morrisville,Cary,8.2,Customer Visit
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Morrisville,7.3,
+########,########,Business,Morrisville,Cary,7.4,
+########,########,Business,Whitebridge,Westpark Place,1.6,
+########,########,Business,Westpark Place,Whitebridge,1.8,
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Durham,9.9,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Raleigh,13.3,Meeting
+########,########,Business,Raleigh,Cary,11.3,Meeting
+########,########,Business,Cary,Durham,10.5,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Durham,10.1,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Morrisville,3.1,Errand/Supplies
+########,########,Business,Morrisville,Cary,3.1,Errand/Supplies
+########,########,Business,Cary,Durham,9.9,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Whitebridge,Summerwinds,8.8,Meeting
+########,########,Business,Summerwinds,Whitebridge,8.7,Temporary Site
+########,########,Business,Cary,Durham,11.8,Meeting
+########,########,Business,Parkwood,Parkwood,1.2,Errand/Supplies
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies
+########,########,Business,Cary,Durham,9.9,
+########,########,Business,Durham,Morrisville,8.6,
+########,########,Business,Morrisville,Cary,6.3,Meal/Entertain
+########,########,Business,Cary,Durham,9.9,Meeting
+########,########,Business,Durham,Cary,9.9,
+########,########,Business,Cary,Morrisville,3.3,Meal/Entertain
+########,########,Business,Morrisville,Cary,3.1,Customer Visit
+########,########,Business,Cary,Morrisville,7.9,Temporary Site
+########,########,Business,Morrisville,Cary,8.9,
+########,########,Business,Kenner,New Orleans,12.8,
+########,########,Business,CBD,Pontchartrain Beach,7.7,
+########,########,Business,Pontchartrain Beach,CBD,7,
+########,########,Business,New Orleans,Metairie,12.5,
+########,########,Business,Kenner,New Orleans,13.2,
+########,########,Business,New Orleans,Kenner,13,
+########,########,Business,Kenner,Metairie,4.9,
+########,########,Business,Metairie,New Orleans,8.5,
+########,########,Business,CBD,St Thomas,1.3,
+########,########,Business,St Thomas,CBD,1.8,
+########,########,Business,New Orleans,Kenner,13.6,
+########,########,Business,Kenner,New Orleans,13.4,
+########,########,Business,New Orleans,Kenner,12.3,
+########,########,Personal,Kenner,Kenner,1.4,
+########,########,Personal,Morrisville,Cary,8.7,
+########,########,Personal,Cary,Morrisville,23.5,
+########,########,Personal,Morrisville,Morrisville,2.2,
+########,########,Personal,Morrisville,Cary,4.4,
+########,########,Personal,Cary,Morrisville,3.3,
+########,########,Business,Morrisville,Morrisville,11.8,Errand/Supplies
+########,########,Business,Morrisville,Banner Elk,195.3,
+########,########,Personal,Banner Elk,Banner Elk,8.3,
+########,########,Personal,Banner Elk,Banner Elk,3.2,
+########,########,Personal,Banner Elk,Elk Park,22.4,
+########,########,Personal,Elk Park,Banner Elk,12.2,
+########,########,Personal,Banner Elk,Banner Elk,4.5,
+########,########,Personal,Banner Elk,Newland,28.1,
+########,########,Personal,Newland,Newland,3.8,
+########,########,Personal,Newland,Boone,41.9,
+########,########,Personal,Boone,Banner Elk,23.8,
+########,########,Personal,Banner Elk,Banner Elk,13,
+########,########,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies
+########,########,Personal,Banner Elk,Boone,15.1,Charity ($)
+########,########,Personal,Boone,Cary,180.2,Commute
+########,########,Personal,Cary,Morrisville,4.1,Moving
+########,########,Personal,Morrisville,Cary,6.1,Moving
+########,########,Personal,Northwoods,Preston,3.3,Moving
+########,########,Personal,Preston,Whitebridge,4.7,Moving
+########,########,Business,Cary,Apex,7.2,Meeting
+########,########,Business,Apex,Cary,5.5,Meal/Entertain
+########,########,Business,Cary,Morrisville,3.3,Meal/Entertain
+########,########,Business,Hazelwood,Weston,0.9,Errand/Supplies
+########,########,Business,Morrisville,Cary,3.8,Meal/Entertain
+########,########,Business,Whitebridge,Stonewater,6.4,Customer Visit
+########,########,Business,Stonewater,Lexington Park at Amberly,3,Meeting
+########,########,Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain
+########,########,Business,Whitebridge,Chessington,3.9,Errand/Supplies
+########,########,Personal,Chessington,Whitebridge,4.8,
+########,########,Personal,Whitebridge,Edgehill Farms,2.8,
+########,########,Personal,Edgehill Farms,Preston,1.4,
+########,########,Personal,Preston,Whitebridge,1.4,
+########,########,Business,Whitebridge,Edgehill Farms,2.7,
+########,########,Business,Edgehill Farms,Burtrose,2.3,
+########,########,Business,Cary,Morrisville,3.7,
+########,########,Business,Morrisville,Cary,2.9,
+########,########,Business,Cary,Morrisville,3.8,
+########,########,Business,Morrisville,Cary,5.1,
+########,########,Business,Hazelwood,Lexington Park at Amberly,9.1,
+########,########,Business,Cary,Durham,8,
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Morrisville,6.1,Meal/Entertain
+########,########,Business,Morrisville,Cary,12.2,
+########,########,Business,Wayne Ridge,Whitebridge,8,
+########,########,Business,Cary,Morrisville,4,
+########,########,Business,Morrisville,Cary,9.5,
+########,########,Business,Cary,Morrisville,3,
+########,########,Business,Morrisville,Cary,6.3,
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Whitebridge,Parkway,1.5,
+########,########,Business,Cary,Morrisville,4.9,
+########,########,Business,Morrisville,Cary,7.9,
+########,########,Business,Parkway,Whitebridge,1.7,
+########,########,Business,Whitebridge,Westpark Place,2.2,
+########,########,Business,Westpark Place,Whitebridge,2.1,
+########,########,Business,Cary,Morrisville,2.5,Meal/Entertain
+########,########,Business,Morrisville,Cary,2.5,Meal/Entertain
+########,########,Business,Cary,Morrisville,2.8,
+########,########,Business,Morrisville,Raleigh,14.7,
+########,########,Business,Raleigh,Morrisville,14.6,
+########,########,Business,Morrisville,Cary,2.3,
+########,########,Business,Whitebridge,Westpark Place,2.2,
+########,########,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain
+########,########,Business,Cary,Durham,14,
+########,########,Business,Durham,Cary,13.3,
+########,########,Business,Westpark Place,Whitebridge,1.8,
+########,########,Business,Whitebridge,Arlington Park at Amberly,6.2,
+########,########,Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,
+########,########,Business,Lexington Park at Amberly,Westpark Place,1.9,
+########,########,Business,Cary,Apex,6.9,
+########,########,Business,Apex,Cary,4.6,
+########,########,Business,Whitebridge,Edgehill Farms,2.8,
+########,########,Business,Cary,Morrisville,9.1,
+########,########,Business,Morrisville,Cary,8.1,
+########,########,Business,Cary,Morrisville,8.4,Meeting
+########,########,Business,Arlington,Washington,4.9,
+########,########,Business,Kalorama Triangle,K Street,1,
+########,########,Business,K Street,Kalorama Triangle,1,
+########,########,Business,West End,Northwest Rectangle,2,
+########,########,Business,K Street,Kalorama Triangle,1.1,
+########,########,Business,Kalorama Triangle,Downtown,1.5,
+########,########,Business,Connecticut Avenue,Kalorama Triangle,1.3,
+########,########,Business,Kalorama Triangle,Columbia Heights,1.8,
+########,########,Business,Columbia Heights,Kalorama Triangle,1.5,
+########,########,Business,Washington,Arlington,6.6,
+########,########,Business,Morrisville,Cary,8,
+########,########,Business,Whitebridge,Edgehill Farms,2.7,
+########,########,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit
+########,########,Business,Cary,Morrisville,2.5,
+########,########,Business,Morrisville,Cary,2.5,Meal/Entertain
+########,########,Business,Whitebridge,Farmington Woods,5.2,
+########,########,Business,Farmington Woods,Edgehill Farms,4,
+########,########,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit
+########,########,Business,Cary,Morrisville,4.8,
+########,########,Business,Morrisville,Cary,3.2,Customer Visit
+########,########,Business,Whitebridge,Waverly Place,6.9,
+########,########,Business,Cary,Raleigh,14.9,
+########,########,Business,Raleigh,Cary,17.4,
+########,########,Business,Cary,Durham,12.9,
+########,########,Business,Durham,Apex,15.3,
+########,########,Business,Apex,Apex,1,
+########,########,Business,Apex,Cary,6,
+########,########,Business,Whitebridge,Heritage Pines,2.2,
+########,########,Business,Heritage Pines,Edgehill Farms,4.4,
+########,########,Business,Edgehill Farms,Whitebridge,2.8,
+########,########,Business,Cary,Wake Forest,31.7,
+########,########,Business,Wake Forest,Cary,31.9,
+########,########,Business,Whitebridge,Westpark Place,1.9,
+########,########,Business,Westpark Place,Whitebridge,1.8,
+########,########,Business,Cary,Morrisville,8.4,Meeting
+########,########,Business,R?walpindi,Unknown Location,15.6,
+########,########,Business,Unknown Location,Unknown Location,14.1,
+########,########,Business,Unknown Location,Unknown Location,15.7,
+########,########,Business,Unknown Location,Unknown Location,25.9,Temporary Site
+########,########,Business,Unknown Location,Unknown Location,7.9,
+########,########,Business,Unknown Location,Unknown Location,2.7,
+########,########,Business,Unknown Location,Unknown Location,5.5,
+########,########,Business,Unknown Location,Islamabad,5.7,
+########,########,Business,Islamabad,Islamabad,1.2,
+########,########,Business,Islamabad,Unknown Location,5.7,Temporary Site
+########,########,Business,Unknown Location,Unknown Location,16.2,
+########,########,Business,Unknown Location,Unknown Location,2.6,
+########,########,Business,Unknown Location,Unknown Location,12.1,
+########,########,Business,Unknown Location,R?walpindi,1.4,
+########,########,Business,R?walpindi,Islamabad,6.4,
+########,########,Business,Islamabad,Unknown Location,7.3,
+########,########,Business,Unknown Location,Unknown Location,5.3,
+########,########,Business,Unknown Location,Unknown Location,5.5,
+########,########,Business,Unknown Location,Unknown Location,7.7,Temporary Site
+########,########,Business,Unknown Location,Unknown Location,7.6,Temporary Site
+########,########,Business,Unknown Location,Noorpur Shahan,7.6,
+########,########,Business,Noorpur Shahan,Islamabad,3.3,
+########,########,Business,Islamabad,R?walpindi,6.5,
+########,########,Business,R?walpindi,Unknown Location,2,
+########,########,Business,Unknown Location,Islamabad,5.7,
+########,########,Business,Islamabad,Islamabad,3.2,
+########,########,Business,Islamabad,Unknown Location,12.5,
+########,########,Business,Unknown Location,Unknown Location,7.6,Airport/Travel
+########,########,Business,Unknown Location,Unknown Location,7.7,
+########,########,Business,Unknown Location,Islamabad,12.2,
+########,########,Business,Islamabad,Islamabad,1.4,
+########,########,Business,Islamabad,Unknown Location,20.2,
+########,########,Business,Unknown Location,Islamabad,9.8,
+########,########,Business,Islamabad,Unknown Location,6.3,
+########,########,Business,Unknown Location,Islamabad,4.9,
+########,########,Business,Islamabad,Islamabad,1.5,
+########,########,Business,Islamabad,Unknown Location,10.9,
+########,########,Business,Unknown Location,Unknown Location,19,
+########,########,Business,Unknown Location,Unknown Location,19,
+########,########,Business,Unknown Location,R?walpindi,7.9,
+########,########,Business,R?walpindi,R?walpindi,4.1,
+########,########,Business,R?walpindi,Unknown Location,18.7,
+########,########,Business,Unknown Location,Noorpur Shahan,8.7,
+########,########,Business,Noorpur Shahan,Unknown Location,7.5,
+########,########,Business,Unknown Location,Noorpur Shahan,7.7,
+########,########,Business,Noorpur Shahan,Islamabad,4.4,
+########,########,Business,Islamabad,Unknown Location,5,
+########,########,Business,Unknown Location,Unknown Location,1.9,
+########,########,Business,Unknown Location,Unknown Location,7.9,
+########,########,Business,Unknown Location,Unknown Location,17.7,
+########,########,Business,Unknown Location,Unknown Location,25.2,
+########,########,Business,Unknown Location,Unknown Location,96.2,
+########,########,Business,Unknown Location,Unknown Location,35,
+########,########,Business,Unknown Location,Unknown Location,5.5,
+########,########,Business,Unknown Location,Unknown Location,50.4,
+########,########,Business,Unknown Location,Lahore,9.2,
+########,########,Business,Lahore,Unknown Location,7.3,
+########,########,Business,Unknown Location,Unknown Location,5,
+########,########,Business,Unknown Location,Unknown Location,3.8,
+########,########,Business,Unknown Location,Lahore,3.9,
+########,########,Business,Lahore,Lahore,7.4,
+########,########,Business,Lahore,Lahore,1.5,
+########,########,Business,Lahore,Unknown Location,7.9,
+########,########,Business,Unknown Location,Lahore,2.9,
+########,########,Business,Lahore,Lahore,3.4,
+########,########,Business,Lahore,Lahore,3.8,
+########,########,Business,Lahore,Unknown Location,5.9,
+########,########,Business,Unknown Location,Lahore,9.6,
+########,########,Business,Lahore,Lahore,7,
+########,########,Business,Lahore,Lahore,0.9,
+########,########,Business,Lahore,Unknown Location,86.6,
+########,########,Business,Unknown Location,Unknown Location,156.9,
+########,########,Business,Unknown Location,Noorpur Shahan,10.1,
+########,########,Business,Noorpur Shahan,Islamabad,6.2,
+########,########,Business,Islamabad,Islamabad,5.3,
+########,########,Business,Islamabad,Unknown Location,12.1,
+########,########,Business,Unknown Location,Islamabad,10.8,
+########,########,Business,Islamabad,Islamabad,4.3,
+########,########,Business,Islamabad,Islamabad,2.5,
+########,########,Business,Islamabad,Unknown Location,5.7,Temporary Site
+########,########,Business,Unknown Location,Islamabad,2.8,
+########,########,Business,Islamabad,Unknown Location,4,
+########,########,Business,Unknown Location,Islamabad,5.5,
+########,########,Business,Islamabad,Islamabad,2.6,
+########,########,Business,Unknown Location,Unknown Location,2.1,
+########,########,Business,Unknown Location,Islamabad,8.8,
+########,########,Business,Islamabad,Islamabad,4.4,
+########,########,Business,Islamabad,Unknown Location,5.3,
+########,########,Business,Unknown Location,Unknown Location,13,
+########,########,Business,Unknown Location,Islamabad,13,
+########,########,Business,Islamabad,Unknown Location,10.6,
+########,########,Business,Unknown Location,Unknown Location,2.2,
+########,########,Business,Unknown Location,Islamabad,9.2,
+########,########,Business,Unknown Location,Unknown Location,12.9,
+########,########,Business,Unknown Location,R?walpindi,17.2,
+########,########,Business,Unknown Location,Unknown Location,69.1,
+########,########,Business,Unknown Location,Unknown Location,2.8,
+########,########,Business,Unknown Location,Unknown Location,8.6,
+########,########,Business,Unknown Location,Unknown Location,9.8,
+########,########,Business,Unknown Location,Unknown Location,3.6,
+########,########,Business,Unknown Location,Unknown Location,1.7,
+########,########,Business,Unknown Location,Unknown Location,11.5,
+########,########,Business,Unknown Location,Unknown Location,0.7,
+########,########,Business,Unknown Location,Unknown Location,0.7,
+########,########,Business,Unknown Location,Unknown Location,0.9,
+########,########,Business,Unknown Location,Unknown Location,1.6,
+########,########,Business,Unknown Location,Unknown Location,9.4,
+########,########,Business,R?walpindi,Unknown Location,18.2,
+########,########,Business,Unknown Location,Islamabad,10.5,
+########,########,Business,Islamabad,Unknown Location,5.7,
+########,########,Business,Unknown Location,Unknown Location,18,
+########,########,Business,Unknown Location,Islamabad,18.3,
+########,########,Business,Islamabad,Unknown Location,16.5,
+########,########,Business,Unknown Location,R?walpindi,9.6,
+########,########,Business,Karachi,Karachi,2.9,
+########,########,Business,Karachi,Unknown Location,8.2,
+########,########,Business,Unknown Location,Unknown Location,2.4,
+########,########,Business,Unknown Location,Unknown Location,5.8,
+########,########,Business,Lahore,Lahore,9.8,
+########,########,Business,Lahore,Unknown Location,7.3,
+########,########,Business,Unknown Location,Unknown Location,195.6,
+########,########,Business,Islamabad,Unknown Location,20.5,
+########,########,Business,Unknown Location,Islamabad,12.6,
+########,########,Business,Islamabad,Islamabad,37.7,
+########,########,Business,Islamabad,Unknown Location,16.7,
+########,########,Business,Unknown Location,Islamabad,10.5,
+########,########,Business,Islamabad,Islamabad,2.8,
+########,########,Business,Islamabad,Islamabad,1.6,
+########,########,Business,Islamabad,Unknown Location,12.7,
+########,########,Business,Unknown Location,Unknown Location,28.6,
+########,########,Business,Unknown Location,Unknown Location,15.1,
+########,########,Business,Unknown Location,R?walpindi,17.9,
+########,########,Business,R?walpindi,Unknown Location,112.6,
+########,########,Business,Unknown Location,Unknown Location,18.4,
+########,########,Business,Unknown Location,Unknown Location,13.8,
+########,########,Business,Unknown Location,Lahore,33.2,
+########,########,Business,Lahore,Lahore,2.6,
+########,########,Business,Lahore,Unknown Location,5.8,
+########,########,Business,Unknown Location,Lahore,8.3,
+########,########,Business,Lahore,Lahore,2.4,
+########,########,Business,Lahore,Lahore,3.1,
+########,########,Business,Lahore,Lahore,6.1,
+########,########,Business,Karachi,Karachi,3.6,
+########,########,Business,Karachi,Unknown Location,8,
+########,########,Business,Unknown Location,Unknown Location,7.7,Temporary Site
+########,########,Business,Islamabad,Islamabad,1.7,
+########,########,Business,Islamabad,Unknown Location,9.5,
+########,########,Business,Unknown Location,R?walpindi,17.1,Meeting
+########,########,Business,R?walpindi,Unknown Location,18.4,
+########,########,Business,Unknown Location,Islamabad,9.8,
+########,########,Business,Islamabad,Islamabad,1,
+########,########,Business,Islamabad,Islamabad,0.7,
+########,########,Business,Islamabad,Islamabad,2.3,
+########,########,Business,Islamabad,Unknown Location,10.9,
+########,########,Business,Unknown Location,R?walpindi,12.7,
+########,########,Business,R?walpindi,Unknown Location,12.4,
+########,########,Business,Unknown Location,Unknown Location,3.8,
+########,########,Business,Unknown Location,R?walpindi,17,Meeting
+########,########,Business,Morrisville,Morrisville,6.2,
+########,########,Business,Morrisville,Cary,3.1,
+########,########,Business,Cary,Durham,10.5,Meeting
+########,########,Business,Durham,Morrisville,8.1,
+########,########,Business,Morrisville,Cary,3.1,
+########,########,Business,Whitebridge,Parkway,2.1,Meeting
+########,########,Business,Cary,Morrisville,4.3,
+########,########,Business,Morrisville,Cary,2.5,Meal/Entertain
+########,########,Business,Cary,Raleigh,20.6,
+########,########,Business,Raleigh,Cary,17.6,
+########,########,Business,Cary,Apex,5.6,
+########,########,Business,Apex,Apex,3.3,
+########,########,Business,Apex,Cary,5.3,
+########,########,Business,Whitebridge,Edgehill Farms,3.3,
+########,########,Business,Edgehill Farms,Whitebridge,3.3,
+########,########,Business,Cary,Morrisville,7.9,Temporary Site
+########,########,Business,Oakland,Emeryville,13,
+########,########,Business,Emeryville,Berkeley,3,
+########,########,Business,Berkeley,Emeryville,3,
+########,########,Business,Emeryville,Oakland,3.8,
+########,########,Business,Oakland,San Francisco,9.5,
+########,########,Business,SOMISSPO,French Quarter,1.7,
+########,########,Business,San Francisco,Berkeley,10.8,
+########,########,Business,West Berkeley,North Berkeley Hills,4.1,
+########,########,Business,North Berkeley Hills,Southside,2.2,
+########,########,Business,Berkeley,Emeryville,4.6,
+########,########,Business,Emeryville,Berkeley,3.1,
+########,########,Business,Berkeley,San Jose,47.7,
+########,########,Business,San Jose,Emeryville,44.6,
+########,########,Business,Emeryville,Oakland,13.2,
+########,########,Business,Morrisville,Cary,8.7,
+########,########,Business,Cary,Raleigh,17.2,
+########,########,Business,Raleigh,Cary,14,
+########,########,Business,Cary,Raleigh,28.1,
+########,########,Business,Raleigh,Cary,28.2,
+########,########,Business,Cary,Morrisville,3.1,Meal/Entertain
+########,########,Business,Morrisville,Cary,3.1,Customer Visit
+########,########,Business,Cary,Durham,16.4,
+########,########,Business,Durham,Morrisville,15.4,
+########,########,Business,Morrisville,Cary,2.2,
+########,########,Business,Cary,Apex,11.2,
+########,########,Business,Apex,Eagle Rock,2.2,
+########,########,Business,Eagle Rock,Cary,3.6,
+########,########,Business,Whitebridge,Savon Height,3.6,Meal/Entertain
+########,########,Business,Savon Height,Parkway,4.9,
+########,########,Business,Parkway,Whitebridge,8.7,Errand/Supplies
+########,########,Business,Whitebridge,Parkway,2.1,Meeting
+########,########,Business,Parkway,Whitebridge,2.1,
+########,########,Business,Cary,Morrisville,8.4,Meeting
+########,########,Business,Morrisville,Morrisville,5.9,
+########,########,Business,Huntington Woods,Huntington Woods,12.1,
+########,########,Business,Huntington Woods,Weston,3.9,
+########,########,Business,Morrisville,Cary,6.2,
+########,########,Business,Cary,Durham,10.4,Meeting
+########,########,Business,Durham,Cary,9.9,Meeting
+########,########,Business,Cary,Winston Salem,107,Meeting
+########,########,Business,Winston Salem,Asheville,133.6,Meeting
+########,########,Business,Asheville,Topton,91.8,Meeting
+########,########,Business,Topton,Hayesville,40.7,Meeting
+########,########,Business,Hayesville,Topton,75.7,
+########,########,Business,Topton,Bryson City,29.8,
+########,########,Business,Bryson City,Bryson City,16.3,
+########,########,Business,Bryson City,Bryson City,6.5,
+########,########,Business,Bryson City,Bryson City,6.3,
+########,########,Business,Bryson City,Almond,6.6,
+########,########,Business,Almond,Bryson City,15.2,
+########,########,Business,Bryson City,Asheville,68.4,
+########,########,Business,Asheville,Mebane,195.9,
+########,########,Business,Mebane,Cary,45.2,
+########,########,Business,Cary,Morrisville,3.2,
+########,########,Business,Morrisville,Raleigh,10.3,
+########,########,Business,Raleigh,Cary,13.1,
+########,########,Business,Savon Height,Whitebridge,9.6,Errand/Supplies
+########,########,Business,Cary,Durham,16.5,
+########,########,Business,Durham,Cary,12.8,
+########,########,Business,Whitebridge,Whitebridge,1.2,
+########,########,Business,Whitebridge,Whitebridge,1,
+########,########,Business,Whitebridge,Whitebridge,4.1,
+########,########,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain
+########,########,Business,Whitebridge,Westpark Place,1.4,
+########,########,Business,Westpark Place,Whitebridge,1.8,
+########,########,Business,Cary,Morrisville,8.5,Meeting
+########,########,Business,Morrisville,Morrisville,5,
+########,########,Business,Morrisville,Cary,3.8,
+########,########,Business,Whitebridge,Hazelwood,2.5,
+########,########,Business,Hazelwood,Whitebridge,2.4,
+########,########,Business,Whitebridge,Westpark Place,1.4,
+########,########,Business,Westpark Place,Whitebridge,1.8,
+########,########,Business,Cary,Morrisville,3.1,Meal/Entertain
+########,########,Business,Morrisville,Cary,3.1,Customer Visit
+########,########,Business,Cary,Morrisville,7.9,Temporary Site
+########,########,Business,San Jose,Santa Clara,3.8,
+########,########,Business,Agnew,Cory,4.3,
+########,########,Business,Cory,Agnew,3.9,
+########,########,Business,Agnew,Renaissance,2.2,
+########,########,Business,Renaissance,Agnew,2.8,
+########,########,Business,Agnew,Agnew,2.2,
+########,########,Business,Agnew,Renaissance,2.4,
+########,########,Business,Renaissance,Agnew,2.8,Meeting
+########,########,Business,Santa Clara,Berkeley,43.9,Customer Visit
+########,########,Business,Downtown,West Berkeley,1.8,
+########,########,Business,West Berkeley,Central,3.3,
+########,########,Business,Berkeley,San Francisco,11.8,Between Offices
+########,########,Business,San Francisco,Berkeley,13.2,Between Offices
+########,########,Business,Berkeley,San Francisco,12.2,Between Offices
+########,########,Business,San Francisco,Berkeley,11.3,Meeting
+########,########,Business,Berkeley,Emeryville,3.6,
+########,########,Business,Emeryville,Berkeley,3,
+########,########,Business,Berkeley,San Francisco,11.4,
+########,########,Business,NOMA,Downtown,0.9,
+########,########,Business,Downtown,Sunnyside,6.2,
+########,########,Business,Sunnyside,Ingleside,0.7,
+########,########,Business,Ingleside,Potrero Flats,5.5,Meeting
+########,########,Business,San Francisco,Oakland,12.7,Customer Visit
+########,########,Business,Oakland,Berkeley,2.6,
+########,########,Business,Central,Central,1.1,
+########,########,Business,Berkeley,San Francisco,12.6,Temporary Site
+########,########,Business,Tenderloin,SOMISSPO,1.2,
+########,########,Business,SOMISSPO,Tenderloin,1.1,
+########,########,Business,San Francisco,Oakland,9.9,Temporary Site
+########,########,Business,Oakland,Berkeley,6,Meeting
+########,########,Business,West Berkeley,Central,0.8,
+########,########,Business,Berkeley,Menlo Park,45.9,Customer Visit
+########,########,Business,Menlo Park,Palo Alto,4,
+########,########,Business,Palo Alto,Menlo Park,2.5,
+########,########,Business,Menlo Park,Berkeley,36.6,Customer Visit
+########,########,Business,Central,College Avenue,2.9,
+########,########,Business,College Avenue,Central,2.6,
+########,########,Business,Central,South,2.3,
+########,########,Business,South,Downtown,6.4,
+########,########,Business,Downtown,Central,1.4,
+########,########,Business,Central,West Berkeley,0.6,
+########,########,Business,West Berkeley,South,5.9,Meeting
+########,########,Business,South,Southwest Berkeley,0.8,
+########,########,Business,Berkeley,Emeryville,1.3,
+########,########,Business,Emeryville,Berkeley,3.7,Errand/Supplies
+########,########,Business,Central,Central,2.3,
+########,########,Business,Central,Central,2.6,
+########,########,Business,Central,Southside,1.9,
+########,########,Business,Southside,West Berkeley,2.1,
+########,########,Business,West Berkeley,Southside,4,Meeting
+########,########,Business,Southside,South Berkeley,0.9,
+########,########,Business,South Berkeley,Southside,0.9,
+########,########,Business,Southside,Central,2.4,
+########,########,Business,Central,Southside,1.9,
+########,########,Business,Southside,Central,1.9,
+########,########,Business,Berkeley,Mountain View,44.6,Customer Visit
+########,########,Business,Mountain View,Berkeley,43.6,Customer Visit
+########,########,Business,Berkeley,Emeryville,2.5,
+########,########,Business,Emeryville,Berkeley,3.7,Errand/Supplies
+########,########,Business,Berkeley,Oakland,5.1,
+########,########,Business,Oakland,San Francisco,9.7,Temporary Site
+########,########,Business,San Francisco,Berkeley,11.8,Temporary Site
+########,########,Business,Berkeley,El Cerrito,2.3,Temporary Site
+########,########,Business,El Cerrito,Berkeley,3.1,Meal/Entertain
+########,########,Business,Berkeley,Oakland,16.3,Customer Visit
+########,########,Business,Cary,Morrisville,3.1,Meal/Entertain
+########,########,Business,Morrisville,Cary,5.2,Meal/Entertain
+########,########,Business,Krendle Woods,Whitebridge,6.1,Meeting
+########,########,Business,Cary,Durham,10.3,Meeting
+########,########,Business,Durham,Cary,10.5,Meeting
+########,########,Business,Cary,Cary,1.5,
+########,########,Business,Cary,Cary,1.8,
+########,########,Business,Cary,Apex,5.4,Errand/Supplies
+########,########,Business,Apex,Cary,5.4,Customer Visit
+########,########,Business,Cary,Cary,39.2,Between Offices
+########,########,Business,Cary,Cary,6.4,Customer Visit
+########,########,Business,Cary,Cary,2.7,Meeting
+########,########,Business,Cary,Cary,18.5,Errand/Supplies
+########,########,Business,Cary,Cary,2.5,Meal/Entertain
+########,########,Business,Cary,Cary,2.1,Meal/Entertain
+########,########,Business,Cary,Unknown Location,6.7,Errand/Supplies
+########,########,Business,Unknown Location,Morrisville,3.5,Meal/Entertain
+########,########,Business,Morrisville,Cary,3.4,Errand/Supplies
+########,########,Business,Cary,Cary,5.5,Meeting
+########,########,Business,Cary,Cary,4.1,Meeting
+########,########,Business,Cary,Cary,12.7,Customer Visit
+########,########,Business,Cary,Morrisville,3,Meal/Entertain
+########,########,Business,Morrisville,Cary,3.5,Customer Visit
+########,########,Business,Cary,Cary,5.9,Meal/Entertain
+########,########,Business,Cary,Cary,1.9,
+########,########,Business,Cary,Cary,3.3,
+########,########,Business,Cary,Cary,1.3,
+########,########,Business,Cary,Durham,10.3,Meeting
+########,########,Business,Durham,Cary,11.1,Meeting
+########,########,Business,Cary,Cary,1.4,
+########,########,Business,Cary,Apex,5.1,Meeting
+########,########,Business,Apex,Holly Springs,9,Meeting
+########,########,Business,Holly Springs,Cary,13.3,Between Offices
+########,########,Business,Cary,Cary,2.5,Errand/Supplies
+########,########,Business,Cary,Morrisville,3.3,Meal/Entertain
+########,########,Business,Morrisville,Cary,2.9,
+########,########,Business,Cary,Raleigh,8.5,Customer Visit
+########,########,Business,Raleigh,Morrisville,6.7,Temporary Site
+########,########,Business,Morrisville,Cary,3.1,
+########,########,Business,Cary,Cary,5.5,Meeting
+########,########,Business,Cary,Cary,5.5,Errand/Supplies
+########,########,Business,Cary,Morrisville,2.9,Meal/Entertain
+########,########,Business,Morrisville,Cary,2.9,Customer Visit
+########,########,Business,Cary,Apex,5.1,Meal/Entertain
+########,########,Business,Apex,Cary,5.3,Customer Visit
+########,########,Business,Cary,Morrisville,3.3,Meal/Entertain
+########,########,Business,Morrisville,Cary,3,Customer Visit
+########,########,Business,Cary,Wake Co.,6.6,Errand/Supplies
+########,########,Business,Wake Co.,Morrisville,1.8,
+########,########,Business,Morrisville,Cary,3,Customer Visit
+########,########,Business,Cary,Morrisville,2.9,Meal/Entertain
+########,########,Business,Morrisville,Cary,3.4,Customer Visit
+########,########,Business,Cary,Cary,4.1,
+########,########,Business,Cary,Cary,3.8,Meal/Entertain
+########,########,Business,Cary,Cary,6.6,Meeting
+########,########,Business,Cary,Cary,4,Meeting
+########,########,Business,Cary,Cary,7,Customer Visit
+########,########,Business,Cary,Cary,6.9,Meal/Entertain
+########,########,Business,Cary,Cary,3.4,Errand/Supplies
+########,########,Business,Cary,Cary,3.4,Errand/Supplies
+########,########,Business,Cary,Cary,2,Meeting
+########,########,Business,Cary,Cary,2,Errand/Supplies
+########,########,Business,Cary,Apex,5.1,Errand/Supplies
+########,########,Business,Apex,Cary,8.8,Temporary Site
+########,########,Business,Cary,Cary,5.6,Meeting
+########,########,Business,Cary,Cary,18.9,Customer Visit
+########,########,Business,Cary,Fuquay-Varina,15.6,Meeting
+########,########,Business,Fuquay-Varina,Cary,15.6,Errand/Supplies
+########,########,Business,Cary,Morrisville,3,Meal/Entertain
+########,########,Business,Morrisville,Cary,3.1,Customer Visit
+########,########,Business,Cary,Morrisville,3,Meal/Entertain
+########,########,Business,Morrisville,Cary,4.8,Errand/Supplies
+########,########,Business,Cary,Cary,2.1,Errand/Supplies
+########,########,Business,Cary,Cary,3.1,Errand/Supplies
+########,########,Business,Cary,Apex,4.4,Meal/Entertain
+########,########,Business,Apex,Cary,4.7,Customer Visit
+########,########,Business,Cary,Morrisville,3,Meal/Entertain
+########,########,Business,Morrisville,Cary,3,Customer Visit
+########,########,Business,Cary,Cary,4.2,Errand/Supplies
+########,########,Business,Cary,Cary,4.1,Meal/Entertain
+########,########,Business,Cary,Cary,3.4,
+########,########,Business,Cary,Cary,3.3,
+########,########,Business,Cary,Morrisville,3,Meal/Entertain
+########,########,Business,Morrisville,Cary,3.1,Customer Visit
+########,########,Business,Cary,Morrisville,10.6,Meeting
+########,########,Business,Unknown Location,Unknown Location,4.8,Airport/Travel
+########,########,Business,Unknown Location,Unknown Location,5.3,Temporary Site
+########,########,Business,Unknown Location,Unknown Location,4.9,Errand/Supplies
+########,########,Business,Unknown Location,Unknown Location,10.2,Errand/Supplies
+########,########,Business,Unknown Location,Unknown Location,9.2,
+########,########,Business,Unknown Location,Islamabad,7.7,Errand/Supplies
+########,########,Business,Islamabad,Rawalpindi,5.9,Temporary Site
+########,########,Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies
+########,########,Business,Unknown Location,Unknown Location,1.3,
+########,########,Business,Unknown Location,Unknown Location,2.5,
+########,########,Business,Unknown Location,Unknown Location,5.3,
+########,########,Business,Unknown Location,Unknown Location,5.4,
+########,########,Business,Unknown Location,Rawalpindi,10.2,Customer Visit
+########,########,Business,Rawalpindi,Islamabad,7.2,Customer Visit
+########,########,Business,Islamabad,Unknown Location,2.2,
+########,########,Business,Unknown Location,Unknown Location,11,Meeting
+########,########,Business,Unknown Location,Rawalpindi,12,
+########,########,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies
+########,########,Business,Rawalpindi,Unknown Location,19.4,Meeting
+########,########,Business,Unknown Location,Unknown Location,1.7,Errand/Supplies
+########,########,Business,Unknown Location,Islamabad,5.7,Temporary Site
+########,########,Business,Islamabad,Islamabad,1.8,Errand/Supplies
+########,########,Business,Islamabad,Islamabad,1.4,Errand/Supplies
+########,########,Business,Islamabad,Unknown Location,10.3,Customer Visit
+########,########,Business,Unknown Location,Unknown Location,11.5,Meeting
+########,########,Business,Unknown Location,Islamabad,4.9,Errand/Supplies
+########,########,Business,Islamabad,Unknown Location,3.5,Meal/Entertain
+########,########,Business,Unknown Location,Unknown Location,16.2,Meeting
+########,########,Business,Unknown Location,Unknown Location,2,Errand/Supplies
+########,########,Business,Unknown Location,Islamabad,2.1,Errand/Supplies
+########,########,Business,Islamabad,Islamabad,2.1,Meeting
+########,########,Business,Islamabad,Unknown Location,7.2,Customer Visit
+########,########,Business,Unknown Location,Rawalpindi,12,Meeting
+########,########,Business,Rawalpindi,Unknown Location,103,Meeting
+########,########,Business,Unknown Location,Unknown Location,32.3,Meeting
+########,########,Business,Unknown Location,Unknown Location,5.3,Customer Visit
+########,########,Business,Unknown Location,Unknown Location,11.6,Meeting
+########,########,Business,Unknown Location,Unknown Location,23.2,Meeting
+########,########,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies
+########,########,Business,Unknown Location,Unknown Location,12.3,Temporary Site
+########,########,Business,Unknown Location,Lahore,14,Meeting
+########,########,Business,Lahore,Lahore,2.1,Meal/Entertain
+########,########,Business,Lahore,Lahore,2.1,Customer Visit
+########,########,Business,Lahore,Lahore,3,Meeting
+########,########,Business,Lahore,Unknown Location,6.2,Meeting
+########,########,Business,Unknown Location,Unknown Location,9.6,Meeting
+########,########,Business,Unknown Location,Unknown Location,1.3,Errand/Supplies
+########,########,Business,Unknown Location,Lahore,7.1,Meal/Entertain
+########,########,Business,Lahore,Unknown Location,6.3,Meal/Entertain
+########,########,Business,Unknown Location,Lahore,10.7,Meal/Entertain
+########,########,Business,Lahore,Lahore,5.3,Meal/Entertain
+########,########,Business,Lahore,Lahore,1.6,Errand/Supplies
+########,########,Business,Lahore,Lahore,3.6,Errand/Supplies
+########,########,Business,Lahore,Lahore,1.7,Errand/Supplies
+########,########,Business,Lahore,Lahore,2.9,Meal/Entertain
+########,########,Business,Lahore,Lahore,0.6,Errand/Supplies
+########,########,Business,Lahore,Lahore,0.6,Errand/Supplies
+########,########,Business,Lahore,Lahore,2.3,Meal/Entertain
+########,########,Business,Lahore,Lahore,2.3,Meal/Entertain
+########,########,Business,Lahore,Lahore,3.2,Meal/Entertain
+########,########,Business,Lahore,Lahore,6.2,Customer Visit
+########,########,Business,Lahore,Lahore,7.7,Customer Visit
+########,########,Business,Lahore,Lahore,3.8,Customer Visit
+########,########,Business,Lahore,Unknown Location,7.9,Meeting
+########,########,Business,Kar?chi,Kar?chi,4.9,Temporary Site
+########,########,Business,Kar?chi,Kar?chi,5,Meal/Entertain
+########,########,Business,Kar?chi,Kar?chi,0.6,Meal/Entertain
+########,########,Business,Kar?chi,Unknown Location,3.1,Customer Visit
+########,########,Business,Unknown Location,Kar?chi,7.9,Meeting
+########,########,Business,Kar?chi,Kar?chi,5.5,Customer Visit
+########,########,Business,Kar?chi,Unknown Location,10.3,Meal/Entertain
+########,########,Business,Unknown Location,Kar?chi,10.4,Errand/Supplies
+########,########,Business,Kar?chi,Kar?chi,2,Errand/Supplies
+########,########,Business,Kar?chi,Unknown Location,8.5,Meal/Entertain
+########,########,Business,Unknown Location,Kar?chi,4.4,Errand/Supplies
+########,########,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies
+########,########,Business,Kar?chi,Kar?chi,5.1,Errand/Supplies
+########,########,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies
+########,########,Business,Kar?chi,Unknown Location,11.6,Meal/Entertain
+########,########,Business,Unknown Location,Kar?chi,11.9,Meal/Entertain
+########,########,Business,Kar?chi,Kar?chi,1.4,Errand/Supplies
+########,########,Business,Kar?chi,Kar?chi,1.1,Errand/Supplies
+########,########,Business,Kar?chi,Kar?chi,4.1,Airport/Travel
+########,########,Business,Kar?chi,Kar?chi,6.1,Between Offices
+########,########,Business,Kar?chi,Kar?chi,1.3,Errand/Supplies
+########,########,Business,Kar?chi,Unknown Location,3,Meal/Entertain
+########,########,Business,Unknown Location,Kar?chi,4.1,Customer Visit
+########,########,Business,Kar?chi,Kar?chi,7.2,Meeting
+########,########,Business,Kar?chi,Unknown Location,6.4,
+########,########,Business,Unknown Location,Kar?chi,12.9,Meeting
+########,########,Business,Kar?chi,Kar?chi,2.8,Errand/Supplies
+########,########,Business,Kar?chi,Kar?chi,2.9,Errand/Supplies
+########,########,Business,Kar?chi,Kar?chi,4.6,Errand/Supplies
+########,########,Business,Kar?chi,Kar?chi,4.6,Meeting
+########,########,Business,Kar?chi,Kar?chi,0.8,Customer Visit
+########,########,Business,Kar?chi,Kar?chi,0.7,Meeting
+########,########,Business,Kar?chi,Unknown Location,3.9,Temporary Site
+########,########,Business,Unknown Location,Unknown Location,16.2,Meeting
+########,########,Business,Katunayake,Gampaha,6.4,Temporary Site
+########,########,Business,Gampaha,Ilukwatta,48.2,Temporary Site
+Totals,,,,,12204.7,
